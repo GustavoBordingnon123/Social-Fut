@@ -1,0 +1,60 @@
+body{
+ background-color: #2F3136;   
+}
+#imagem-topo{
+    padding-top: 2vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#caixa{
+    background-color: #40444B;
+    width: 80%;
+    text-align: center;
+    border: 5px;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 3vh;
+    height:480px;
+}
+#apelido{
+    margin: 5px;
+    border-radius: 30px;
+    width: 70%;
+    height: 40px;
+}
+#idade{
+    margin: 5px;
+    border-radius: 30px;
+    width: 70%;
+    height: 40px;
+}
+#posição{
+    margin: 5px;
+    border-radius: 30px;
+    width: 70%;
+    height: 50px;
+}
+#time{
+    margin: 5px;
+    border-radius: 30px;
+    width: 70%;
+    height: 40px;
+}
+#cidade{
+    margin: 5px;
+    border-radius: 30px;
+    width: 70%;
+    height: 40px;
+}
+#endereço{
+    margin: 5px;
+    border-radius: 30px;
+    width: 70%;
+    height: 40px;
+}
+.botao_entrar {
+    height:40px;
+}

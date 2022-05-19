@@ -1,0 +1,136 @@
+body{
+    margin: 0% auto;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: #2F3136;
+}
+header {
+    height:20px;
+    background-color:#202225;
+
+}
+#menu-horizontal{
+    padding: 0px;
+    list-style-type: none;
+}
+
+#menu-horizontal li{
+    display: inline;
+
+}
+
+#menu-horizontal li a{
+    padding: 20px;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+}
+
+#menu-horizontal li a:hover{
+    background-color: #ffffff;
+}
+
+#imagem-jogador{
+    padding-top: 2vh;
+    display: flex;
+    align-items: center;
+}
+
+#primeiro-fedd{
+    padding-left: 20vh;
+
+}
+#info1{
+    padding-top: 2vh;
+    background-color: #D2D2D2;
+    border-radius: 10px;
+    height: 60px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    padding-left: 2vh;
+    padding-bottom: 2vh;
+    margin: 15px;
+}
+#info-complementar1{
+    background-color: #D2D2D2;
+    border-radius: 10px;
+    padding-left: 2vh;
+    width: 800px;
+    margin: 15px;
+}
+#info2{
+    padding-top: 2vh;
+    background-color: #D2D2D2;
+    border-radius: 10px;
+    height: 60px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    padding-left: 2vh;
+    padding-bottom: 2vh;
+    margin: 15px;
+
+}
+#info-complementar2{
+    background-color: #D2D2D2;
+    border-radius: 10px;
+    width: 800px;
+    padding-left: 2vh;
+    margin: 15px;
+}
+#info3{
+    padding-top: 2vh;
+    background-color: #D2D2D2;
+    border-radius: 10px;
+    height: 60px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    padding-left: 2vh;
+    padding-bottom: 2vh;
+    margin: 15px;
+
+}
+#info-complementar3{
+    background-color: #D2D2D2;
+    border-radius: 10px;
+    width: 800px;
+    padding-left: 2vh;
+    margin: 15px;
+}
+#terceiro-fedd{
+    padding-left: 20vh;
+}
+#info4{
+    padding-top: 2vh;
+    background-color: #D2D2D2;
+    border-radius: 10px;
+    height: 60px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    padding-left: 2vh;
+    padding-bottom: 2vh;
+    margin: 15px;
+
+}
+#info-complementar4{
+    background-color: #D2D2D2;
+    border-radius: 10px;
+    width: 800px;
+    padding-left: 2vh;
+    margin: 15px;
+}
+#quarto-feed{
+    padding-left: 20vh;
+}
+#imagem-topo{
+    padding-top: 4vh;
+    padding-right: 680px;
+    padding-left: 10px;
+}
+footer {
+    height:20px;
+    background-color:#202225;
+}
