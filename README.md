@@ -8,7 +8,7 @@
 <a id="about"><strong>About:</strong></a>
 <p>This project is about an web-site to help people that like soccer, to rent any soccer pitch. And  owners that want advertise his own field.</p>
 
-<a id="versions"><strong>Vesions:</strong></a>
+<h1 id="versions"><strong>Vesions:</strong></h1>
 <p>0.1: this version just added 7 front-end screens</p>
 
 <a id="pages"><strong>Pages:</strong></a>
