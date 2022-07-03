@@ -1,9 +1,9 @@
 # README
 <h1>Project : Social Fut</h1>
 <ul>
-  <li><a  href="">About the project</a></li>
-  <li><a  href="">Pages</a></li>
-  <li><a  href="">Objective</a></li>
+  <li><a  href="#about">About the project</a></li>
+  <li><a  href="#versions">Pages</a></li>
+  <li><a  href="#pages">Objective</a></li>
  </ul>
 <h2 id="about"><strong>About:</strong></h2>
 <p>This project is about an web-site to help people that like soccer, to rent any soccer pitch. And  owners that want advertise his own field.</p>
